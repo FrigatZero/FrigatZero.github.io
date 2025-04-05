@@ -66,7 +66,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2017-09-01
-    date_end: 2025-05-17
+    date_end: 2024-05-17
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
