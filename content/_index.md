@@ -30,6 +30,23 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      username: admin
+    design:
+      columns: '1'
+  - block: experience
+    content:
+      title: Experience
+      text: ''
+      username: admin
+  - block: awards
+    content:
+      title: Accomplishments
+      text: ''
+      username: admin
   - block: markdown
     content:
       title: '📚 My Research'
