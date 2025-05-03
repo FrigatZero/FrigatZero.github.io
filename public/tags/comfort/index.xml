@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/comfort/</link>
       <atom:link href="http://localhost:1313/tags/comfort/index.xml" rel="self" type="application/rss+xml" />
     <description>Comfort</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Comfort</title>
@@ -15,7 +15,7 @@
     <item>
       <title>🎉Создание презентаций на основе Markdown</title>
       <link>http://localhost:1313/post/presentations/</link>
-      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/presentations/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
