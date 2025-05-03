@@ -34,6 +34,174 @@
     </item>
     
     <item>
+      <title>🎉Пост по неделе 28 апреля - 3 мая</title>
+      <link>http://localhost:1313/post/third-week/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/third-week/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#математика&#34;&gt;Математика&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#программирование-от-ооп-до-arduino&#34;&gt;Программирование: от ООП до Arduino&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#майские-праздники&#34;&gt;Майские праздники&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#английский-и-ии&#34;&gt;Английский и ИИ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#заключение&#34;&gt;Заключение&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Эта неделя выдалась комфортной — первые майские праздники дали передышку. Успел и немного отдохнуть, и разобраться с учебой.&lt;/p&gt;
+&lt;h2 id=&#34;математика&#34;&gt;Математика&lt;/h2&gt;
+&lt;p&gt;Матемаьтческий анализ не отпускает: на носу вторая контрольная, на этот раз с двойными интегралами. Пока всё идет хорошо, но чувствую, что перед сдачей придётся провести пару бессоных ночей. Дискретная математика тоже напомнила о себе — скоро последняя контрольная по математике логики.&lt;/p&gt;
+&lt;h2 id=&#34;программирование-от-ооп-до-arduino&#34;&gt;Программирование: от ООП до Arduino&lt;/h2&gt;
+&lt;p&gt;Приступил к написанию программы по графике на технологии программирования, пока что все легко. Нужно сделать класс точки и эволюционировать его до квадрата. Также на этой неделе пришлось повозиться с Arduino, но мне нравится этот новый опыт: смотреть как собранная тобой схема работает прекрасно.&lt;/p&gt;
+&lt;h2 id=&#34;майские-праздники&#34;&gt;Майские праздники&lt;/h2&gt;
+&lt;p&gt;Первого мая прошел праздник - День Весны и Труда. Отлично отдохнул, на следующей неделе вся неделя свободна - можно закрыть хвосты и закончить давно начатое.&lt;/p&gt;
+&lt;h2 id=&#34;английский-и-ии&#34;&gt;Английский и ИИ&lt;/h2&gt;
+&lt;p&gt;Продолжаем эксперименты с ИИ. На этот раз нужно было сгенерировать молитву, как будто её написала известная личность. ИИ сделал все быстро, очень похоже на оригинал.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Впереди ещё неделя — и, как не хотелось бы оттягивать этот момент, сессия всё ближе. Но пока есть силы и мотивация работать дальше!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉Создание презентаций на основе Markdown</title>
+      <link>http://localhost:1313/post/presentations/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/presentations/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#почему-markdown-нужен-для-презентаций&#34;&gt;Почему Markdown нужен для презентаций?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#базовый-синтаксиис&#34;&gt;Базовый синтаксиис&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#лучшие-практики&#34;&gt;Лучшие практики&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#заключение&#34;&gt;Заключение&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Markdown - это современный подход к созданию академических презентаций, который составляет простоту текстовой разметки с удобностью инструментов преобразования в множество форматов.&lt;/p&gt;
+&lt;h2 id=&#34;почему-markdown-нужен-для-презентаций&#34;&gt;Почему Markdown нужен для презентаций?&lt;/h2&gt;
+&lt;p&gt;Использование Markdown для создания презентаций предлагает значительные преимущества. Изменения легко отслеживать изменения через Git, простые файлы md можно легко преобразовать в другие форматы. Написанный текст можно использовать для удобных шаблонов презентаций с простым и универсальным дизайном. Сборка происходит через Makefile или CI/CD, а презентация содержит минимум отвлекающих элементов оформления.&lt;/p&gt;
+&lt;h2 id=&#34;базовый-синтаксиис&#34;&gt;Базовый синтаксиис&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Front matter (метаданные)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;title: Моя презентация
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;author: Иван Иванов
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2025-04-06
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;theme: metropolis
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Первый слайд
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Основной текст слайда
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Подзаголовок
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Пункт списка 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Пункт списка 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Колонки
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;:::::::::::::: {.columns align=center}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;::: {.column width=&amp;#34;60%&amp;#34;}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Левая колонка
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;:::
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;::: {.column width=&amp;#34;40%&amp;#34;}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Правая колонка
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;:::
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;::::::::::::::
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;лучшие-практики&#34;&gt;Лучшие практики&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Принцип 10/20/30:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;10 слайдов&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;20 минут доклада&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;30pt минимальный размер шрифта&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Структура слайда:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Одна ключевая мысль на слайд&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Чёткий заголовок&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Минимум текста (5-7 элементов)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Визуализация:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Схемы &amp;gt; Графики &amp;gt; Таблицы &amp;gt; Текст&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Минимум анимации&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Заключение:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Сильный финальный слайд с главным посылом&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Избегайте банального &amp;ldquo;Спасибо за внимание&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Создание презентаций в Markdown - это мощный и эффективный подход, который особенно полезен:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Для технических докладчиков&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Для автоматизации процесса подготовки&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Для обеспечения согласованности стиля&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Этот метод позволяет сосредоточиться на содержании, а не на оформлении, обеспечивая при этом профессиональный результат и высокую скорость.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🎉Пост по неделе 24-30 апреля</title>
       <link>http://localhost:1313/post/second-week/</link>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
@@ -458,7 +626,7 @@
 
 
 
-&lt;div id=&#34;chart-135724689&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-419258736&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -476,7 +644,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-135724689&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-419258736&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
