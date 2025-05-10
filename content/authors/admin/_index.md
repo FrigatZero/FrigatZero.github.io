@@ -119,6 +119,10 @@ awards:
   - title: Интеллектуальный мегаполис. Потенциал. Диплом победителя.
     date: '2024-05-28'
     awarder: Депортамент образования и науки города Москвы. МЦКО
+  - title: Introduction to Linux. Certificate
+    date: '2025-05-09'
+    awarder: Bioinformatics Institute. Stepik course
+    url: https://stepik.org/cert/2844889?lang=en
 ---
 
 ## About Me

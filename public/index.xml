@@ -34,6 +34,14 @@
     </item>
     
     <item>
+      <title>Introduction to Linux</title>
+      <link>http://localhost:1313/project/stepik/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/stepik/</guid>
+      <description>&lt;p&gt;Introduction to Linux is a course provided by teachers from Bioinformatics Institute. It includes basic information about how to execute and install files, work with servers and programm on Bash using vim or other editors.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>🎉Пост по неделе 28 апреля - 3 мая</title>
       <link>http://localhost:1313/post/third-week/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
@@ -626,7 +634,7 @@
 
 
 
-&lt;div id=&#34;chart-286973451&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-395214768&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -644,7 +652,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-286973451&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-395214768&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
