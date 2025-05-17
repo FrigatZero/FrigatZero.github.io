@@ -268,11 +268,11 @@
     </item>
     
     <item>
-      <title>Introduction to Linux</title>
+      <title>Github Lab</title>
       <link>http://localhost:1313/project/gitproject/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/gitproject/</guid>
-      <description>&lt;p&gt;Introduction to Linux is a course provided by teachers from Bioinformatics Institute. It includes basic information about how to execute and install files, work with servers and programm on Bash using vim or other editors.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Laboratory work project. Architecture of computers and operating systems. Section &amp;ldquo;Operating Systems&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -852,7 +852,7 @@
 
 
 
-&lt;div id=&#34;chart-687231495&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-371652498&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -870,7 +870,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-687231495&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-371652498&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -1,13 +1,12 @@
 ---
-title: Introduction to Linux
-date: 2025-05-10
-external_link: https://github.com/FrigatZero/study_2024-2025_os-intro/tree/master/course
+title: Github Lab
+date: 2025-05-17
+external_link: https://github.com/FrigatZero/study_2024-2025_os-intro/
 tags:
-  - Stepik
   - Linux
-  - Education
+  - Github
 ---
 
-Introduction to Linux is a course provided by teachers from Bioinformatics Institute. It includes basic information about how to execute and install files, work with servers and programm on Bash using vim or other editors.
+Laboratory work project. Architecture of computers and operating systems. Section "Operating Systems"
 
 <!--more-->

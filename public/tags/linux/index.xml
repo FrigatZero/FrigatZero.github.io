@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/linux/</link>
       <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <description>Linux</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Linux</title>
@@ -15,9 +15,9 @@
     <item>
       <title>Introduction to Linux</title>
       <link>http://localhost:1313/project/gitproject/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/gitproject/</guid>
-      <description>&lt;p&gt;Introduction to Linux is a course provided by teachers from Bioinformatics Institute. It includes basic information about how to execute and install files, work with servers and programm on Bash using vim or other editors.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Laboratory work project.&lt;/p&gt;</description>
     </item>
     
     <item>
