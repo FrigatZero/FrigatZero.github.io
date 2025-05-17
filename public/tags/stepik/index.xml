@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stepik | Hugo Academic CV Theme</title>
+    <title>Stepik | Daniil Sergeev</title>
     <link>http://localhost:1313/tags/stepik/</link>
       <atom:link href="http://localhost:1313/tags/stepik/index.xml" rel="self" type="application/rss+xml" />
     <description>Stepik</description>
@@ -11,6 +11,14 @@
       <title>Stepik</title>
       <link>http://localhost:1313/tags/stepik/</link>
     </image>
+    
+    <item>
+      <title>Introduction to Linux</title>
+      <link>http://localhost:1313/project/gitproject/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/gitproject/</guid>
+      <description>&lt;p&gt;Introduction to Linux is a course provided by teachers from Bioinformatics Institute. It includes basic information about how to execute and install files, work with servers and programm on Bash using vim or other editors.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Introduction to Linux</title>
