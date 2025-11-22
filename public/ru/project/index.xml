@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Daniil Sergeev</title>
+    <link>http://localhost:1313/ru/project/</link>
+      <atom:link href="http://localhost:1313/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Linux System Administrator from scratch</title>
+      <link>http://localhost:1313/ru/project/selectelcourse/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/selectelcourse/</guid>
+      <description>&lt;p&gt;The Selectel System Administration course is an educational program provided by experts from Selectel. It breaks down what a system administrator does, what tasks they perform, and why their role is so critical.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Github Lab</title>
+      <link>http://localhost:1313/ru/project/gitproject/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/gitproject/</guid>
+      <description>&lt;p&gt;Laboratory work project. Architecture of computers and operating systems. Section &amp;ldquo;Operating Systems&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linux</title>
+      <link>http://localhost:1313/ru/project/stepik/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/stepik/</guid>
+      <description>&lt;p&gt;Introduction to Linux is a course provided by teachers from Bioinformatics Institute. It includes basic information about how to execute and install files, work with servers and programm on Bash using vim or other editors.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

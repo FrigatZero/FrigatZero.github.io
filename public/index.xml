@@ -34,6 +34,14 @@
     </item>
     
     <item>
+      <title>Linux System Administrator from scratch</title>
+      <link>http://localhost:1313/project/selectelcourse/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/selectelcourse/</guid>
+      <description>&lt;p&gt;The Selectel System Administration course is an educational program provided by experts from Selectel. It breaks down what a system administrator does, what tasks they perform, and why their role is so critical.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>🎉Пост по неделе 12 - 17 мая</title>
       <link>http://localhost:1313/post/fourth-week/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
@@ -852,7 +860,7 @@
 
 
 
-&lt;div id=&#34;chart-371652498&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-197328654&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -870,7 +878,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-371652498&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-197328654&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
